@@ -6,7 +6,10 @@
 ## Team Members
 * Daesy Stephens
 * Jerome Joof
-* Sergey Voytovrge
+* Sergey Voytov
 * Joshua Deforrest
 * Jitendra Bajracharya
 * Dayne Daylong
+
+
+//add
